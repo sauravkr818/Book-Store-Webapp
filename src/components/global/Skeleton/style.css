@@ -1,0 +1,49 @@
+.ant-skeleton-button{
+    width: 155px !important;
+    height: 200px !important;
+}
+
+
+
+@media (max-width: 1400px) {
+    .ant-skeleton-button{
+        width: 120px !important;
+        height: 140px !important;
+    }
+}
+
+@media (max-width: 1200px) {
+    .ant-skeleton-button{
+        width: 100px !important;
+        height: 120px !important;
+    }
+}
+
+@media (max-width: 900px) {
+    .ant-skeleton-button{
+        width: 80px !important;
+        height: 100px !important;
+    }
+}
+
+@media (max-width: 800px) {
+    .ant-skeleton-button{
+        width: 50px !important;
+        height: 100px !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .ant-skeleton-button{
+        width: 50px !important;
+        height: 100px !important;
+    }
+}
+
+@media (max-width: 450px) {
+    .ant-skeleton-button{
+        width: 40px !important;
+        height: 80px !important;
+    }
+}
+
